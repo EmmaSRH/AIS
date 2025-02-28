@@ -14,6 +14,8 @@ We have released the data on [HuggingFace](https://huggingface.co/datasets/sssse
 We use several amodal segmentation methods to build the benchmark for the dataset. The codes are from their original repository:
 
 > **SAM**: https://github.com/facebookresearch/segment-anything
+>
+> **SAM2**: https://github.com/facebookresearch/sam2
 > 
 > **AISFormer**: https://github.com/UARK-AICV/AISFormer
 > 
